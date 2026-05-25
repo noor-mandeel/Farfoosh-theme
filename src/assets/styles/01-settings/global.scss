@@ -17,7 +17,7 @@ $main-text-color: var(--main-text-color);
   --color-primary-reverse: #ff6767;
   --color-text: #7c8082;
   --bg-gray: #c6c7ce1a;
-  --color-grey: #f5f7f9;
+  --color-grey: #1a1a1a;
   --color-light-grey: #eeeeee;
   /* font-size */
   --font-sm: 0.8685714286rem;
@@ -27,6 +27,4 @@ $main-text-color: var(--main-text-color);
   /* plugins */
   --mm-ocd-width: calc(100% - 51px);
 }
-body {
-  background-color: #1a1a1a;
-}
+
